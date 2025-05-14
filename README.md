@@ -17,4 +17,5 @@ Factor Correlation Matrix
 
 Factor Sharpe Summary
 
-<img width="733" alt="20930260a1980da4a05094d74e78d30" src="https://github.com/user-attachments/assets/c930224c-5bce-4f2a-8527-5ee546ad3e03" />
+<img width="733" alt="a8073b2b9a6f06a3a9dbeaa98dc415b" src="https://github.com/user-attachments/assets/b0c7357d-fba4-4557-a105-a77c22dee46b" />
+
