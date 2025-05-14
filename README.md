@@ -12,7 +12,8 @@ Below are their correlation matrix and Sharpe Ratio summary.
 
 
 Factor Correlation Matrix 
-<img width="1260" alt="16a143c87c40a472600bfe5d30871b1" src="https://github.com/user-attachments/assets/b30cdcb1-9d9f-4069-86c4-052a2f844121" />
+<img width="1197" alt="02f119b9963fc07e9f08dd7a7a0801e" src="https://github.com/user-attachments/assets/8ec8fa34-a566-40cf-a057-217d937ababd" />
+
 
 
 Factor Sharpe Summary
