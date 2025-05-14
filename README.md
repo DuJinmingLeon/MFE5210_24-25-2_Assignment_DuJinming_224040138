@@ -6,7 +6,7 @@ Student Name:杜金明
 
 Student ID: 224040138
 
-For this assignment, I developed 39 min-freq factors in total for AG futures. They are all built upon LOB data, so actually these factors can be uesd upon other species and other contracts.
+For this assignment, I developed 12 min-freq factors in total for AG futures. They are all built upon LOB data, so actually these factors can be uesd upon other species and other contracts.
 
 Below are their correlation matrix and Sharpe Ratio summary.
 
